@@ -3,4 +3,4 @@
 
 
 - this program is to demonstrat the lose logic behind the tic-tac-tao game
-- the computer takes a random move there is no inteligent move in it
+- the computer takes a random move there is no intelligent move in it
